@@ -4,16 +4,16 @@ var Nightmare = require('nightmare');
 // create a new browser window
 
 var protectionData = [];
-for (var i=0; i<32; i++) {
+for (var i=0; i<23; i++) {
     var nightmare = Nightmare({ show: true });
 
-    var scraperURL = 'https://www.mountainproject.com/v/the-bastille---n-face/105744723'
+    var scraperURL = 'https://www.mountainproject.com/v/the-bastille---w-face/105807524'
     var scraperClick = '#leftNavRoutes > tbody > tr:nth-child('+(i+1).toString()+') > td:nth-child(3) > a'
       nightmare
           .goto(scraperURL)
-          .wait(8000)
+          .wait(10000)
           .click(scraperClick)
-          .wait(8000)
+          .wait(12000)
 
           // evaluate code IN THE NIGHTMARE BROWSER
           .evaluate(function () {

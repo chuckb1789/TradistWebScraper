@@ -1,0 +1,298 @@
+{
+  "Outer Face": {
+      "Original": "5.10",
+      "Risk": "R",
+      "FA": "Rob Candelaria & Roger Briggs",
+      "Year": 1976,
+      "Protection": "Aliens, 3.5 friend"
+      },
+
+
+  "Saturnalia": {
+      "Type": "Trad",
+      "Pitches": 1,
+      "Original": "5.11b",
+      "FA": "Steve Dieckhoff and Mike Gilbert",
+      "Protection": "The crux is protected by a bolt at your feet, but there are other considerable moves with trad gear or little gear at all protecting the fall. A rack with a single set of muts and cams 0.5-3 is probably as good as you can do. [The] larger cams fit in a horizontal placement before the crux bolt and do add mental comfort/security to the long moves to reach the clip.",
+      },
+
+  "Space Invaders": {
+    "Type": "Trad",
+    "Pitches": 4,
+    "Original": "5.11a",
+    "FA": "unknown",
+    "Fixed Hardware": "2 Lead Bolts 2 Belay Bolts",
+    "Protection": "at for Outer Space plus a few quickdraws & a medium TCU (that probably wouldn't hold even a short fall anyway)"
+    },
+
+  "Northwest Corner": {
+    "Type": "Trad",
+    "Original": "5.11a",
+    "FA": "Layton Kor and Peter Lev",
+    "Fixed Hardware": "3 Lead Bolts, 5 Lead Pins, 3 Belay Bolts",
+    "Protection": "Standard rack, green Alien",
+    },
+
+  "Marie Antoinette" : {
+    "Type": "Trad",
+    "Pitches": 1,
+    "Original": "5.10a",
+    "FA": "John Ruger & Billy Roos?",
+    "Fixed Hardware": "2 Lead Bolts",
+    "Protection":" The protection on this route is not as bad as some others.  Small nuts can be [creatively] placed. You must be solid at the grade to do this route, but if you are, it is not so bad. Finishing on Nexus adds some variety to the route. red Alien",
+    },
+
+  "X-M" : {
+    "Type": "Trad",
+    "Pitches": 3,
+    "Original": "5.10c",
+    "FA" : "Layton Kor, Pat Ament",
+    "Year": 1962,
+    "Fixed Hardware": "4 Belay Bolts, 2 Lead Pins",
+    "Protection": "Rack up to a #2.5 Friend, RPs, #6 Camalot"
+    },
+
+  "Space": { 
+    "Type": "Trad",
+    "Pitch": 1,
+    "Original": "5.11b",
+    "FA": "Eric Johnson, Mike Schlauch, Chip Ruckgaber",
+    "Protection": "Standard Eldo rack.  Lots of long slings.  Consider bringing extra 0.5-2.5 cams if you place a lot of gear on the first 20' of Wide Country's  third pitch.  #4 cam could be useful, but not necessary.  Clip a bolt on Hairstyles as you cross that route."
+  },
+
+  "Northeast Corner": {
+    "Type": "Trad",
+    "Pitches": 3,
+    "Original":  "5.10a",
+    "FA": "J. Stuberg, T. Wilmering",
+    "Season": "Gets mostly shade",
+    "Protection": "A standard light rack with an extra 1.5-1.75 cam (green Camalot) and 2 or more tips-sized cams - i.e. blue/purple Alien. tip-sized cams (0.3) for most of the way.",
+    },
+
+  "Nexus" : {
+    "Type": "Trad",
+    "Pitches": 1,
+    "Original":  "5.11a",
+    "FA": "Jim McMillan, Larry Bruce 1968 (5.8 A4). FFA: Ed Webster, Steve Mammen, Scott Woodruff, Brad Gilbert",
+    "Year": 1975,
+    "Fixed Hardware": "1 Lead Bolt",
+    "Protection": "Standard rack up to #1 Camalot for Nexus. Maybe doubles from #0.5-0.75. Plenty of long slings."
+    },
+
+  "Lilliburlero" : {
+    "Type": "Trad",
+    "Pitches": 1,
+    "Original":  "5.11d",
+    "FA": "S Breashears",
+    "Year": 1976,
+    "Season": "Faces North",
+    "Protection": "It's not a total lack of gear that makes this route so hard to protect as it is the lack of stances from which to fuss anything in with confidence.  A few small nuts are possible.",
+  },
+
+  "Derek-Tissima" : {
+    "Type": "TR",
+    "Pitch": 1,
+    "Original": "5.12",
+    "FA": "Derek Hersey",
+    "Protection": "Top rope from an anchor on Bastille crack. There is NO GEAR on this route and the moves are both hard and insecure.",
+    },
+
+
+  "Wide Times" : {
+    "Type": "Trad",
+    "Pitches": 1,
+    "Original": "5.11-",
+    "FA": "???",
+    "Protection": "WC rack recommendation plus QD for last bolt on TS.",
+    },
+
+  "Liquor Mart" : {
+    "Type": "Trad",
+    "Pitches": 1,
+    "Original": 5.11,
+    "FA": "Chip Ruckgaber, Dan Hare",
+    "Year": 1984,
+    "Season": "Spring, Summer, Fall",
+    "Protection": "Single cams from 00 to #3 and long slings.",
+    },
+
+  "March of Dimes": {
+    "Type": "Trad",
+    "Pitches": 3,
+    "Original": 5.10,
+    "FA": "Dudley Chelton and Duncan Ferguson",
+    "Fixed Hardware": "2 Belay Bolts, 2 Anchor Bolts",
+    "Protection": "Bring a standard rack - #0 TCU/blue Alien up to a #3 Camalot will suffice.",
+    },
+
+  "Northcutt Start": {
+    "Type": "Trad",
+    "Pitches": 1,
+    "Original":  "5.10d",
+    "FA": "Ray Northcutt",
+    "Year": 1959,
+    "FixedHardware": "2 Lead Pins",
+    "Protection": "Smaller pieces, and a nice quickdraw to clip the piton quickly and move on.",
+    },
+
+  "Crossfire" : { 
+    "Type": "Trad",
+    "Pitches": 1,
+    "Original": "5.11d",
+    "FA": "Rob Candelaria, Mic Fairchild, and Matt Baruch",
+    "Fixed Hardware": "3 Lead Bolts",
+    "Protection": "Bolts and thin gear.   Hardly a sewup."
+    },
+
+  "Model Citizen" : {
+    "Type": "Trad",
+    "Pitches": 1,
+    "Original":  "5.11a",
+    "FA": "Mike Brooks, Melissa Ettelstein",
+    "Year" : 1984,
+    "Fixed Hardware": "1 Lead Bolt",
+    "Protection": "Standard rack"
+    },
+
+
+  "Shatek's Ramp-age": {
+    "Type":  "Trad",
+    "Pitches": 1,
+    "Original": 5.8,
+    "FA": "Unknown",
+    "Protection": "Bring a normal rack; mostly mid-sized pieces.  There is an OK looking piton at the crux."
+    },
+
+  "Cross-country": {
+    "Type": "Trad",
+    "Pitches": 1,
+    "Original": "5.11b",
+    "FA": "Unknown",
+    "Protection": "Rack per standard Eldorado Canyon requirements."
+    },
+
+  "Inner Space" : { 
+    "Type": "Trad",
+    "Original": "5.11b",
+    "FA": "Jeff Lowe & John Baldwin",
+    "Year": 1978,
+    "Protection": "Standard Eldo rack (be sure to include one inch cams)"
+    },
+
+  "Independent Study" : {
+    "Type": "Trad",
+    "Pitches": 1,
+    "Original":  "5.10c",
+    "FA": "Pat Ament, Greg Finoff",
+    "Year": 1984,
+    "Protection": "Standard Eldo rack, with extra long runners and/or double ropes."
+    },
+
+  "DNF 5.10 variation" : {
+    "Type": "Trad",
+    "Original":  "5.10c",
+    "FA": "unkown",
+    "Protection": "Standard Eldo rack."
+    },
+
+  "Coach's Demise" : {
+    "Type": "Trad",
+    "Pitches": 1,
+    "Original":  "5.9+",
+    "FA": "Ed Body & Mike Brooks",
+    "Year": 1985,
+    "Fixed Hardware": "4 Lead Pins",
+    "Protection": "4 pins (in situ), hmmm, not much else."
+    },
+
+  "Direct North Face": { 
+    "Type": "Trad",
+    "Original":  "5.11-",
+    "FA": "Unknown",
+    "Protection": "Standard Eldo bag-o-trix",
+    },
+
+  "Madame Guillotine" : {
+    "Type": "Sport",
+    "Pitches": 1,
+    "Original": 5.12,
+    "FA": "Erik Fedor, Rob Candelaria",
+    "Year": 1989,
+    "Fixed Hardware": "9 Lead Bolts",
+    "Protection": "Many draws and a light rack. I used a yellow Alien getting up to the first bolt, and then a green and a red Camalot to make the belay on the Bastille Crack at the end of the pitch (fixed pin here as well)."
+    },
+
+
+  "Hairstyles and Attitudes" : {
+    "Type": "Trad",
+    "Pitches": 1,
+    "Original": "5.12b/c",
+    "FA": "D. Michael, R. Briggs",
+    "Year": 1988,
+    "Fixed Hardware": "4 Anchor Bolts, 10 Lead Bolts",
+    "Protection": "10 bolts to a 2 bolt anchor.  Gear is needed for approach pitches."
+    },
+
+  "Prow Finish": {
+    "Type": "Trad",
+    "Pitches": 1,
+    "Original":  "5.8",
+    "Protection": "Standard rack to a #3 (blue) Camalot.  No fixed gear or anchors."
+    },
+
+
+  "Werk Supp": {
+    "Type": "Trad",
+    "Pitches": 2,
+    "Original": "5.9+",
+    "FA": "Pat Ament, Rick Warsfield, Pat Ament, Dave Rearick",
+    "Fixed Hardware": "1 Lead Pin, 2 Belay Bolts",
+    "Protection": "Rossiter suggests up to a #4 Friend, but the whole climb seemed well protected with nothing larger than a #3 (but bring at least 2 of those, and 2 # 2.5).  You could conceivably place a number 4 at the bottom of the crux pitch.  Bring lots of small gear for the first pitch."
+    },
+
+  "Outer Space": {
+    "Type": "Trad",
+    "Pitches": 2,
+    "Original":  "5.10c",
+    "FA": "Layton Kor, Steve Komito",
+    "Year": 1961,
+    "Protection": "Rossiter gives this route a runout rating. I found it to be pretty well protected and safe.  Some small nuts can protect the move before the crux (where you clip a pin)."
+    },
+
+  "The Bastille Crack": {
+    "Type": "Trad",
+    "Pitches": 5,
+    "Original": "5.7",
+    "FA": "US Army climbers",
+    "Year": 1954,
+    "Fixed Hardware": "2 Belay Bolts",
+    "Protection": "Standard rack to #3 Camalot. Bring a #4 Camalot if you want to do the 5.8 variation on the second pitch, or if you want to belay just above the roof on the 5.8 variation on the last pitch."
+    },
+
+  "Interceptor": {
+    "Type": "Trad",
+    "Pitches": 1,
+    "Original": "5.11b",
+    "FA": "Christian and Dale",
+    "Year": 1984,
+    "Protection": "Standard Eldo rack with an emphasis on finger-hand sized cams and a long sling to drape over a flake, red C3, green Alien, red C4, #2 (not great), 0.75, number 1 would have been better"
+    },
+
+  "The Spice Tour": {
+    "Type": "Trad",
+    "Original": 5.11,
+    "FA": "Suggested by Tague and Levin",
+    "Protection": " Standard Eldo rack, with RPs, Aliens to a 2.5 cam."
+    },
+
+
+  "Wide Country": {
+    "Type": "Trad",
+    "Pitches": 2,
+    "Original": "5.11a",
+    "FA": "Briggs, Foster",
+    "Year": 1967,
+    "Fixed Hardware": "1 Lead Bolt, 2 Lead Pins, 2 Belay Bolts",
+    "Protection": "A few fixed pieces along the way, particularly protecting the crux. The trad gear is RP's + stoppers + narrow cams to 2. Dont bother with doubles of anything. Take a good number of 2 runners. There are significant runouts in the 5.9-5.10- grade, but after the crux, falls would probably be clean and relatively safe."
+    },
+}
